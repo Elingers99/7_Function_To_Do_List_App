@@ -1,4 +1,4 @@
-To Do List Application in Python
+To-Do List Application in Python
 ======================
 
 This is a simple To-Do List application written in Python. It allows users to add tasks, view tasks, edit tasks, mark tasks as completed, delete tasks, and save tasks to a text file.
